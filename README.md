@@ -21,5 +21,9 @@ Desvio máximo de pontos de entrada: If the order has to be shipped in 100, it w
 
 Pontos gatilho: Adds the number entered to the current market value, it is used if you want to advance or delay operations.
 
+## Help Maintenance
 
+I've been maintaining quite many repos these days and burning out slowly. If you could help me cheer up, buying me a cup of coffee will make my life really happy and get much energy out of it.
+
+<a href="https://www.buymeacoffee.com/emesonfilho" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
