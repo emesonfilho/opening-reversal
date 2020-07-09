@@ -7,7 +7,7 @@ The strategy consists of:
 
 * If the previous candle is bullish, and the current one falls breaking the previous day’s opening, selling on disruption.
 
-![image](https://user-images.githubusercontent.com/48841448/87036841-ce2b1400-c1c1-11ea-83a0-d59c316a5586.png)
+![image](https://user-images.githubusercontent.com/48841448/87090850-099fff80-c20f-11ea-881e-4ca2277b99fb.png)
 
 Tipo de ordem:
 
