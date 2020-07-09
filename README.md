@@ -9,6 +9,10 @@ The strategy consists of:
 
 ![image](https://user-images.githubusercontent.com/48841448/87090850-099fff80-c20f-11ea-881e-4ca2277b99fb.png)
 
+The results of the simulations with the above parameters were as follows:
+
+![image](https://user-images.githubusercontent.com/48841448/87090976-410eac00-c20f-11ea-80ce-7ec462b7a546.png)
+
 Tipo de ordem:
 
 * ORDER_FILLING_FOK = If you have 10 contracts, he will only execute the order if he can get the 10 contracts.
