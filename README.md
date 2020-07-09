@@ -1,5 +1,5 @@
 # opening reversal
-Trade system released by the channel  Outspoken Market
+Trade system released by the channel  Outspoken Market: https://www.youtube.com/watch?v=tR4X9uM7QLA&t=343s
 
 The strategy consists of:
 
