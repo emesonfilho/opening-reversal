@@ -1,6 +1,8 @@
 # opening reversal
 Trade system released by the channel  Outspoken Market: https://www.youtube.com/watch?v=tR4X9uM7QLA&t=343s
 
+Leandro's blog post: https://www.outspokenmarket.com/blog
+
 The strategy consists of:
 
 * If the previous candle is bearish, and the current one goes up breaking the previous day's opening, buy at disruption.
