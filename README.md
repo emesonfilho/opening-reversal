@@ -1,7 +1,7 @@
 # opening reversal
 Trade system released by the channel  Outspoken Market: https://www.youtube.com/watch?v=tR4X9uM7QLA&t=343s
 
-Leandro's blog post: https://www.outspokenmarket.com/blog
+Leandro's blog post (7/9/2020): https://www.outspokenmarket.com/blog
 
 The strategy consists of:
 
